@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+Neural_Chroma_Storage/
+imgs_out/
+tools/realesrgan-ncnn-vulkan/
+temp_proc.png
+saved_*.png

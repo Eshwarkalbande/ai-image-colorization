@@ -1,0 +1,8 @@
+torch
+scikit-image
+numpy
+matplotlib
+pillow
+customtkinter
+tkinterdnd2
+ipython

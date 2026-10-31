@@ -1,0 +1,5 @@
+{
+  "model": "siggraph17",
+  "output_size": "8K",
+  "colorize": true
+}

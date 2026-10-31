@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+.env
+.vscode/
+temp_proc.png
+test_glow.png
+Neural_Chroma_Storage/
+img for ai app/
+* - Copy*
